@@ -1190,7 +1190,7 @@ select option.option-test:hover {background-color: #F00;}
 .icon-phone                 {background-position: 0 -80px ; width: 8px; height: 24px;}
 
 /* Booking Style */
-.md-home .check-availability {height: 146px; background-color: #a29061;}
+.md-home .check-availability {height: 146px; background-color:  rgb(65, 73, 138);}
 .check-availability .grid_3 {
     background-color: #242424;
     position: relative;
@@ -1208,7 +1208,7 @@ select option.option-test:hover {background-color: #F00;}
 }
 .check-availability .grid_3:before {
     border-left: 100px solid transparent;
-    border-top: 146px solid #a29061;
+    border-top: 146px solid rgb(65, 73, 138);
     border-right: 0;
     content: "";
     position: absolute;
@@ -1217,12 +1217,12 @@ select option.option-test:hover {background-color: #F00;}
     height: 0;
 }
 .check-availability .grid_9 {
-    background-color: #a29061; 
+    background-color: rgb(65, 73, 138);
     position: relative;
 }
 .check-availability .grid_9 .md-booking {padding-left: 20px;}
 .title-checkroom {
-    color: #a29061;
+    color: #fff;
     font-size: 30px;
     line-height: 30px;
     text-transform: uppercase;
