@@ -657,6 +657,7 @@ h6,.h6 {font-size: 14px;}
 }
 .md-logo img{
     width: 140px;
+    /* border: 10px solid #fff; */
     margin-top: -28px;
 }
 @media screen and (max-width: 375px){
@@ -680,7 +681,7 @@ nav {
     line-height: 50px;
     position: relative;
 }
-.md-menu > li a {
+.md-menu > li a {   
     color: #b2b2b2;
     text-transform: uppercase;
     display: inline-block;
@@ -843,17 +844,17 @@ nav {
     text-transform: uppercase;
 }
 .content-slide h2.slide-title {
-    font-size: 100px; 
+    font-size: 50px; 
     margin-bottom: 14px;
 }
     /* Alter */
     .content-slide h2.slide-title.alter {
-        font-size: 90px;
+        font-size: 50px;
     }
     .content-slide.dark h2.slide-title {
         color: #350e00;
-        font-size: 75px;
-        line-height: 48px;
+        font-size: 50px;
+        line-height: 50px;
     }
     /* Dark */
     .content-slide.dark .title-inner {
@@ -911,7 +912,7 @@ nav {
     width: 100%; 
     margin: 0 auto;
     font-family: 'Open Sans';
-    font-size: 14px;
+    font-size: 19px;
     line-height: 25px;
     font-weight: 400;
     margin-bottom: 13px;
