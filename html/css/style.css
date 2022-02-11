@@ -1193,7 +1193,7 @@ select option.option-test:hover {background-color: #F00;}
 /* Booking Style */
 .md-home .check-availability {height: 146px; background-color:  rgb(65, 73, 138);}
 .check-availability .grid_3 {
-    background-color: #242424;
+    background-color: #242424; 
     position: relative;
     height: 146px;
 }
